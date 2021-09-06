@@ -1,2 +1,4 @@
 # Deep-Neural-Network
-Matrix Factorization and other basic works for deep learning.
+Matrix Factorization on this given criteria below :
+
+![GitHub aa](/aa.png)
